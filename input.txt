@@ -1,0 +1,2 @@
+number x = 42;
+words str = "Hello, World!";
