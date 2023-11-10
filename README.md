@@ -34,10 +34,10 @@ The lexer defines a set of rules to recognize various tokens based on patterns i
 This lexer serves as a basic foundation for identifying tokens in a C-like language, demonstrating the principles of lexical analysis and tokenization.
 
 ## Example using the provided input file
-- Run the following line by line, feel free to change the contents of the input file
+- Run the following line by line, feel free to change the contents of the input file: \
   ```flex lexer.l```\
   ```gcc -o lexer lex.yy.c -ll```\
-  ```./lexer input.txt```\
+  ```./lexer input.txt```
 
 ## Group Members
 1. Christopher Mungiria 135925 ICS 4A
