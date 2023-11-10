@@ -35,6 +35,13 @@ This lexer serves as a basic foundation for identifying tokens in a C-like langu
 
 ## Example using the provided input file
 - Run the following line by line, feel free to change the contents of the input file
-  ```flex lexer.l```
-  ```gcc -o lexer lex.yy.c -ll```
-  ```./lexer input.txt```
+  ```flex lexer.l```\
+  ```gcc -o lexer lex.yy.c -ll```\
+  ```./lexer input.txt```\
+
+## Group Members
+1. Christopher Mungiria 135925 ICS 4A
+2. Royne Thuo 132686 ICS 4A
+3. Masaki Angela 136790 ICS 4A
+4. Newton Paul Muchira Munene 130905 ICS 4A
+5. Kariuki Edwin 136245 ICS 4A
